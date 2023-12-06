@@ -2,7 +2,7 @@ export const projects = [
   {
     name: "Projeto 1",
     description: "Atividade Props Card Pessoas",
-  },
+  }
   {
     name: "Projeto 2",
     description: "Atividade Praticando Children",
